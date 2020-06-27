@@ -1,0 +1,18 @@
+.cal {
+    height: 330px;
+    width: 300px;
+    background-color: cyan;
+    /* display: flex;
+    margin: auto; */
+    margin-top: 50px !important;
+}
+
+.col
+{
+    background-color: darkgray;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 15px;
+    height: 60px;
+}
+
